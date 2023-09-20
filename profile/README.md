@@ -1,4 +1,4 @@
-# Commercy.io
+# Commercy
 
 Olá! Nós somos a Commercy, uma empresa que oferece Magento Open Source as a Service. Nossa plataforma possui os melhores e mais completos recursos do mercado, tudo é feito com muito cuidado e atenção pensando no seu negócio.
 
